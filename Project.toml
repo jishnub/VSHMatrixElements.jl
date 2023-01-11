@@ -1,0 +1,12 @@
+name = "VSHMatrixElements"
+uuid = "c8827209-2b00-4945-a6b1-aac30f3c5ff2"
+authors = ["Jishnu Bhattacharya <jishnub.github@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+OffsetArrays = "6fe1bfb0-de20-5000-8ca7-80f57d26f881"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+WignerSymbols = "9f57e263-0b3d-5e2e-b1be-24f2bb48858b"
+
+[compat]
+WignerSymbols = "2"
